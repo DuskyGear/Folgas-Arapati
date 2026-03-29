@@ -1,0 +1,5 @@
+{
+  "name": "Gerenciador de Folgas",
+  "description": "Aplicativo para gerenciar folgas de funcionários com calendário interativo.",
+  "requestFramePermissions": []
+}
